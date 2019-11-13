@@ -1,0 +1,2 @@
+# Titanic_kaggle_1
+Solution for kaggle_titanic_ml_for_disaster
